@@ -1,0 +1,4 @@
+.*.swp
+config/cert.pem
+config/key.pem
+node_modules/
